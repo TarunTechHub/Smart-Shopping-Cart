@@ -20,4 +20,4 @@ Process
 7. Upload the Code
 8. Open IP Address and Test It
 
-Circut Diagram Refer this link:-
+Circut Diagram Refer this link:- https://github.com/TarunTechHub/Smart-Shopping-Cart/blob/main/iot%20shopping%20cart.pdf
