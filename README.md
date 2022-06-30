@@ -15,9 +15,9 @@ Process
 2. Include the Libraries Used In the Code
 3. Add the Wemos D1 Mini Board In Arduino
 4. Make the Circuit as Show In Diagram
+![Image 4](https://user-images.githubusercontent.com/87562668/176695793-ffa29638-69c1-4dad-bae6-7efad1f7ad5d.png)
+
 5. SCAN the RFID Tags and Notedown the UID Of Tags (Use Software Serial)
 6. Update the UID's and SSID, Password In Code
 7. Upload the Code
 8. Open IP Address and Test It
-
-Circut Diagram Refer this link:- https://github.com/TarunTechHub/Smart-Shopping-Cart/blob/main/iot%20shopping%20cart.pdf
