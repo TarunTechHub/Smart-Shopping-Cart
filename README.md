@@ -19,3 +19,5 @@ Process
 6. Update the UID's and SSID, Password In Code
 7. Upload the Code
 8. Open IP Address and Test It
+
+Circut Diagram Refer this link:-
